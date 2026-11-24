@@ -1,3 +1,4 @@
+// Revision pass: one line added at the top, nothing else touched.
 import { mkdir, writeFile } from "node:fs/promises";
 
 const line =
